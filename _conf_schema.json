@@ -1,0 +1,5 @@
+{
+  "auto_voice": {"description": "允许模型自主选择语音回复（只发语音条；需关闭内置 TTS 与流式输出）", "type": "bool", "default": true},
+  "base_voice": {"description": "固定基础音色", "type": "string", "default": "zh-CN-XiaoxiaoNeural"},
+  "max_chars": {"description": "单条语音最大文字数", "type": "int", "default": 300}
+}

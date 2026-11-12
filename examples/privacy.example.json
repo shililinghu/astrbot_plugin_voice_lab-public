@@ -1,0 +1,12 @@
+{
+  "notice": "Entirely fictional documentation example; not taken from any real person or machine.",
+  "display_name": "Demo User",
+  "email": "demo@example.com",
+  "proxy": {
+    "host": "192.0.2.10",
+    "port": 1080,
+    "username": "demo-user",
+    "password": "REPLACE_LOCALLY"
+  },
+  "local_workspace": "./workspace"
+}

@@ -1,0 +1,6 @@
+name: astrbot_plugin_voice_lab
+display_name: 声音养成
+desc: 私聊中根据试听反馈微调 Edge TTS，试听、确认、回退并持久保存。
+version: v0.1.2
+author: Community Contributors
+repo: https://github.com/shililinghu/astrbot_plugin_voice_lab-public
